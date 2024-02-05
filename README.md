@@ -26,5 +26,5 @@ Welcome to the Pokémon Explorer, a dynamic Pokédex project created by Utsav Sh
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/pokemon-explorer.git
-   cd pokemon-explorer
+   git clone https://github.com/SearingShot/Pokedex-Web.git
+   cd Pokedex-Web
