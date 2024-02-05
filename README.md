@@ -1,6 +1,6 @@
 # PokeMon Pokedex Project
 
-Welcome to the Pokémon Explorer, a dynamic Pokédex project created by Utsav Sharma! Dive into the world of Pokémon with this web application built using React, Redux, TypeScript, SCSS, and Firebase. The project fetches data from the PokeAPI and enables users to create and manage their list of favorite Pokémon. The application is deployed seamlessly on Netlify.
+Welcome to the Pokedex-Web, a dynamic Pokédex project, Dive into the world of Pokémon with this web application built using React, Redux, TypeScript, SCSS, and Firebase. The project fetches data from the PokeAPI and enables users to create and manage their list of favorite Pokémon. The application is deployed seamlessly on Netlify.
 
 ## Features
 
