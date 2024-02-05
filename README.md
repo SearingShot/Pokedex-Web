@@ -28,3 +28,7 @@ Welcome to the Pokémon Explorer, a dynamic Pokédex project created by Utsav Sh
    ```bash
    git clone https://github.com/SearingShot/Pokedex-Web.git
    cd Pokedex-Web
+
+
+### **P.S.** :- 
+Its Not Responsive as of now, Will try to Add Responsiveness in future... ✌🏻
